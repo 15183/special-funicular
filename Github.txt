@@ -1,0 +1,8 @@
+# AbdulElah GhwiTh – Personal Website
+
+موقعي الشخصي المباشر على الإنترنت، مبني بـ HTML/CSS بسيط ويُستضاف مجانًا عبر [Netlify](https://netlify.com).
+
+## 🚀 رابط الموقع
+[https://abdul-ghwith.netlify.app](https://abdul-ghwith.netlify.app)
+
+## 📁 هيكل المشروع
